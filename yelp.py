@@ -4,7 +4,7 @@ import json
 import time
 
 # Yelp API Key (Replace with your actual API Key)
-API_KEY = "yu0yKYkpSXyjQzwSQsebI7crbYTgRxRtvVmF-vHerX8fDrYYEdhzh2sIr2wyVwn7hX05_0XmA8Ql04cGKOhPIpBi9SkeYI0Mum5zJoJXzHgSs9c7t8mOEfobdP29Z3Yx"
+API_KEY = "ADD-API-KEY"
 
 # Define Yelp API endpoint
 YELP_API_URL = "https://api.yelp.com/v3/businesses/search"
